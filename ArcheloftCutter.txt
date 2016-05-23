@@ -1,1 +1,15 @@
+Fullspectrum 
 36" x 24"
+
+Parameters for 1/4" Plywood cut:
+Z: ~0.7385
+S: 20
+Pw: 20
+Pa: 2
+
+Z: ~0.7385
+S: 10
+Pw: 20
+Pa: 2
+
+Both produce fairly pronounced burn
